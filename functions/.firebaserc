@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "deploy": "clone-75b23",
+    "default": "clone-75b23"
+  }
+}
